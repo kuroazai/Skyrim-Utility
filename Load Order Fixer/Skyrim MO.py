@@ -32,7 +32,7 @@ class Organizer:
  
     def __init__ (self):
         #Change this to your plugins.txt 
-        self.path = r"G:\Modding\MO2\profiles\Default\plugins.txt"
+        self.path = "Your path to your plugins"
         self.status = None
         self.file = None
         self.data = None
